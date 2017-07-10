@@ -1,0 +1,32 @@
+{
+  "name": "which-js-backend",
+  "version": "0.1.0",
+  "description": "A Simple Multivariate (A/B) Testing Framework for your website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "James Futhey <futhey@gmail.com> (http://jamesfuthey.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "monk": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidGodzilla/which-js.git"
+  },
+  "keywords": [
+    "multivariate",
+    "testing",
+    "a/b",
+    "testing",
+    "now.sh"
+  ],
+  "bugs": {
+    "url": "https://github.com/kidGodzilla/which-js/issues"
+  },
+  "homepage": "https://github.com/kidGodzilla/which-js#readme"
+}
